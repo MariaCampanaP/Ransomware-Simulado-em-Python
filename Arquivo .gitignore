@@ -1,0 +1,17 @@
+## Arquivo ´.gitignore´
+---
+O arquivo `.gitignore` é usado para ignorar arquivos e pastas desnecessárias (como arquivos temporários ou de configuração) ao fazer commits. No seu caso, pode ser interessante ignorar arquivos como os de cache e a pasta `__pycache__` gerados pelo Python.
+
+Crie o arquivo `.gitignore` com o seguinte conteúdo:
+
+```gitignore
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar arquivos do Replit
+.replit
+
+# Ignorar arquivos criptografados
+*.enc
