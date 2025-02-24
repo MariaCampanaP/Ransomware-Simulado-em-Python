@@ -1,8 +1,8 @@
-# Ransomware-Simulado-em-Python
+# ☕︎ Ransomware Simulado em Python
 
 Este projeto contém uma simulação de **ransomware** utilizando a criptografia **AES** (Advanced Encryption Standard) para criptografar arquivos. O objetivos deste código é educacional e não deve ser utilizado para fins maliciosos.
 
-## Funcionamento
+## ☕︎ Funcionamento
 
 O programa realiza as seguintes ações:
 
@@ -14,7 +14,7 @@ O programa realiza as seguintes ações:
    É possível descriptografar os arquivos criptografados, desde que a chave correta seja 
    fornecida.
 
-## Como Usar
+## ☕︎ Como Usar
 
 1. Clone este repositório para o seu computador ou utilize o Replit.
 
@@ -38,7 +38,7 @@ O programa realiza as seguintes ações:
 
 6. O código descriptografará os arquivos .enc gerados e os restaurará ao seu formato original.
 
-## Arquivo `.gitignore`
+## ☕︎ Arquivo `.gitignore`
 
 Este repositório inclui um arquivo `.gitignore` para evitar que arquivos temporários e desnecessários sejam adicionados ao repositório Git. O `.gitignore inclui:
 
