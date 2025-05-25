@@ -38,16 +38,6 @@ O programa realiza as seguintes ações:
 
 6. O código descriptografará os arquivos .enc gerados e os restaurará ao seu formato original.
 
-## ☕︎ Arquivo `.gitignore`
-
-Este repositório inclui um arquivo `.gitignore` para evitar que arquivos temporários e desnecessários sejam adicionados ao repositório Git. O `.gitignore inclui:
-
-- Arquivos de cache do Python (como `__pycache__` e arquivos `.pyc` e `.pyo`)
-- Arquivos específicos do Replit (`.replit`)
-- Arquivos criptografados gerados pelo script, com a extensão `.enc`
-
-Este arquivo ajuda a manter o repositório limpo e sem arquivos indesejados.
-
 
 
 
